@@ -7,9 +7,9 @@
 ---
 ## :framed_picture: Imagens do Projeto
 
-![imagem-projeto-final](img1.png)
-![imagem-projeto-final](img2.png)
-![imagem-projeto-final](img3.png)
+![imagem-projeto-final](img-1.png)
+![imagem-projeto-final](img-2.png)
+![imagem-projeto-final](img-3.png)
 
 ---
 ##  💻 Tecnologias utilizadas

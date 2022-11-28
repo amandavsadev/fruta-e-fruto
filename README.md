@@ -3,7 +3,7 @@
 ## :page_facing_up: Sobre o Projeto
 - O projeto Fruta & Fruto foi desenvolvido com a intenção de por em prática os conhecimentos obtidos no curso "Bootstrap 4: criando uma landing page responsiva" proporcionado pela [Alura](https://github.com/alura-cursos).
 - Bootstrap é um framework front-end que fornece estruturas de CSS para a criação de sites e aplicações responsivas de forma rápida e simples. Além disso, pode lidar com sites de desktop e páginas de dispositivos móveis da mesma forma.
-- Criada em 28/11/2022
+- Criado em 28/11/2022
 ---
 ## :framed_picture: Imagens do Projeto
 
